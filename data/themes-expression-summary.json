@@ -1,0 +1,157 @@
+{
+    "timestamp": "2018-05-16T11:36:04.854+05:30",
+    "exprAbstracts": {
+        "orderedby": "dt-updated-desc",
+        "records": "13",
+        "pagesize": "4",
+        "itemsfrom": "1",
+        "totalpages": "4",
+        "currentpage": "1",
+        "exprAbstract": [
+            {
+                "expr-iri": "/akn/mu/act/2004-04-30/bill_no_11-2004/eng@/!main",
+                "work-iri": "/akn/mu/act/2004-04-30/bill_no_11-2004/!main",
+                "date": [
+                    {
+                        "name": "work",
+                        "value": "2004-04-30"
+                    },
+                    {
+                        "name": "expression",
+                        "value": "2004-04-30"
+                    }
+                ],
+                "type": {
+                    "name": "legislation",
+                    "aknType": "act"
+                },
+                "country": {
+                    "value": "mu",
+                    "showAs": "Mauritius"
+                },
+                "language": {
+                    "value": "eng",
+                    "showAs": "English"
+                },
+                "publishedAs": "The Dangerous Chemicals Control Bill 2004",
+                "number": {
+                    "value": "bill_no_11-2004",
+                    "showAs": "Bill No. 11/2004"
+                },
+                "componentLink": {
+                    "src": "/akn/mu/act/2004-04-30/bill_no_11-2004/eng@/!main.pdf",
+                    "value": "akn_mu_act_2004-04-30_bill_no_11-2004_eng_main.pdf"
+                },
+                "thumbnail": {"src": "th_akn_mu_act_2004-04-30_bill_no_11-2004_eng_main.png"}
+            },
+            {
+                "expr-iri": "/akn/mu/act/2003-04-10/gn_no_48-2003/eng@/!main",
+                "work-iri": "/akn/mu/act/2003-04-10/gn_no_48-2003/!main",
+                "date": [
+                    {
+                        "name": "work",
+                        "value": "2003-04-10"
+                    },
+                    {
+                        "name": "expression",
+                        "value": "2003-04-10"
+                    }
+                ],
+                "type": {
+                    "name": "legislation",
+                    "aknType": "act"
+                },
+                "country": {
+                    "value": "mu",
+                    "showAs": "Mauritius"
+                },
+                "language": {
+                    "value": "eng",
+                    "showAs": "English"
+                },
+                "publishedAs": "The Consumer Protection (Amendment of Schedule) (No. 2) Regulations 2003 (Amended)",
+                "number": {
+                    "value": "gn_no_48-2003",
+                    "showAs": "GN No. 48/2003"
+                },
+                "componentLink": {
+                    "src": "/akn/mu/act/2003-04-10/gn_no_48-2003/eng@/!main.pdf",
+                    "value": "akn_mu_act_2003-04-10_gn_no_48-2003_eng_main.pdf"
+                },
+                "thumbnail": {"src": "th_akn_mu_act_2003-04-10_gn_no_48-2003_eng_main.png"}
+            },
+            {
+                "expr-iri": "/akn/mu/act/1999-04-12/gn_no_41-1999/eng@/!main",
+                "work-iri": "/akn/mu/act/1999-04-12/gn_no_41-1999/!main",
+                "date": [
+                    {
+                        "name": "work",
+                        "value": "1999-04-12"
+                    },
+                    {
+                        "name": "expression",
+                        "value": "1999-04-12"
+                    }
+                ],
+                "type": {
+                    "name": "legislation",
+                    "aknType": "act"
+                },
+                "country": {
+                    "value": "mu",
+                    "showAs": "Mauritius"
+                },
+                "language": {
+                    "value": "eng",
+                    "showAs": "English"
+                },
+                "publishedAs": "Rodrigues Consumer Protection (Control of Price of Taxable and Non-Taxable Goods) (Amendment No. 3) Regulations 1999 (Amended)",
+                "number": {
+                    "value": "gn_no_41-1999",
+                    "showAs": "GN No. 41/1999"
+                },
+                "componentLink": {
+                    "src": "/akn/mu/act/1999-04-12/gn_no_41-1999/eng@/!main.pdf",
+                    "value": "akn_mu_act_1999-04-12_gn_no_41-1999_eng_main.pdf"
+                },
+                "thumbnail": {"src": "th_akn_mu_act_1999-04-12_gn_no_41-1999_eng_main.png"}
+            },
+            {
+                "expr-iri": "/akn/mu/act/1994-07-01/gn_no_115-_1994/eng@/!main",
+                "work-iri": "/akn/mu/act/1994-07-01/gn_no_115-_1994/!main",
+                "date": [
+                    {
+                        "name": "work",
+                        "value": "1994-07-01"
+                    },
+                    {
+                        "name": "expression",
+                        "value": "1994-07-01"
+                    }
+                ],
+                "type": {
+                    "name": "legislation",
+                    "aknType": "act"
+                },
+                "country": {
+                    "value": "mu",
+                    "showAs": "Mauritius"
+                },
+                "language": {
+                    "value": "eng",
+                    "showAs": "English"
+                },
+                "publishedAs": "The Local Government Act",
+                "number": {
+                    "value": "gn_no_115-_1994",
+                    "showAs": "GN No. 115/ 1994"
+                },
+                "componentLink": {
+                    "src": "/akn/mu/act/1994-07-01/gn_no_115-_1994/eng@/!main.pdf",
+                    "value": "akn_mu_act_1994-07-01_gn_no_115-_1994_eng_main.pdf"
+                },
+                "thumbnail": {"src": "th_akn_mu_act_1994-07-01_gn_no_115-_1994_eng_main.png"}
+            }
+        ]
+    }
+}
